@@ -1,0 +1,14 @@
+:Title Yahtzee XP
+1 Introduction=tpcDefault
+1 Yahtzee Game
+2 Yahtzee Game Rules=tpcRules
+2 Yahtze Game Strategy=tpcStrat
+1 Yahtzee XP
+2 Quick Start=tpcQuickStart
+2 High Scores=tpcHighScores
+2 Sound Options=tpcOptions
+2 Adding/Removing Players=tpcPlayers
+2 Loading/Saving Games=tpcLoadSave
+1 About Yahzee XP
+2 About=tpcAbout
+2 End User License Agreement=tpcEULA
